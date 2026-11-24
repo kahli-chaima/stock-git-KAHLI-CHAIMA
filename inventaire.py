@@ -1,1 +1,1 @@
-print("Gestion de Stock - Edition 1.0")
+print("Gestion de Stock - Edition 1.0 (Mise a jour tarif)")
